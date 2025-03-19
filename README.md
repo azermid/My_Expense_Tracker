@@ -1,26 +1,25 @@
-# My Expense Tracker
+# Mon Gestionnaire de Dépenses
 
-A simple and intuitive expense tracking application built with Svelte, TypeScript, and Vite. This application helps you manage your personal finances by tracking expenses, setting budgets, and visualizing your spending patterns.
+Une application simple et intuitive de suivi des dépenses construite avec Svelte, TypeScript et Vite. Cette application vous aide à gérer vos finances personnelles en suivant vos dépenses, en définissant des budgets et en visualisant vos habitudes de dépenses.
 
-## Features
+## Fonctionnalités
 
-- 💰 Track daily expenses
-- 📊 Set and monitor monthly budgets
-- 🌍 Multi-language support (English, French, Spanish)
-- 💱 Multiple currency support
-- 📱 Responsive design
-- 📈 Visual spending analytics
+- Suivi des dépenses quotidiennes
+- Définition et suivi des budgets mensuels
+- Support multi-langues (Anglais, Français, Espagnol)
+- Design responsive
+- Analyses visuelles des dépenses
 
-## Getting Started
+## Pour Commencer
 
-### Prerequisites
+### Prérequis
 
-- Node.js (version 14 or higher)
-- npm or yarn
+- Node.js (version 14 ou supérieure)
+- npm ou yarn
 
 ### Installation
 
-1. Clone the repository:
+1. Clonez le dépôt :
 
 ```bash
 git clone https://github.com/yourusername/My_Expense_Tracker.git
